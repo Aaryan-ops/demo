@@ -1,0 +1,16 @@
+{
+  "name": "ty",
+  "version": "1.0.0",
+  "homepage":"https://Aarayan-ops.github.io/demo",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d demo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
